@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Phillip Worster Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,31 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc Environmental Science, University College Cork, Ireland, 2019
+* MSc Geography and Environmental Systems, University of Maryland, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2020-Present: Associate Scientist
+  * BioIVT, Maryland USA
+  * Duties included: 
+    * Fulfill researcher requests for custom cell and subcellular fration isolations
+    * Oversee on-call teams for human tissue isolations for research
+    * Lead team through training and implementation of organizational systems
+    * Manage long-term projects for site goals
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Intern
+  * BioIVT, Maryland USA
+  * Duties included: 
+    * Dissected biological structures for tissue isolation for research institues
+    * Prepared media and protocols for shipment of fresh bilogical tissues to research institues
+
+* Summer 2017: Intern
+  * Raritan Headwaters, New Jersey USA
+  * Duties included: 
+    * Supervised soil and water sample collection from several locations for watershed stream monitoring program
+    * Investigated microplastic concentrations from WWTP effluent into streams and salamander population study
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Environmental Science
+  * Air, water, and soil sampling and monitoring
+  * Envronmental Impact Assessment education
+  * Hydrogeology and hydraulic testing
+  * Soil coring
+* Lab Skills
+  * GLP in Biosafety Level-2
+  * Spectrophotometry
+  * AAS
+  * Nitrogen Kjeldal Analysis
 Publications
 ======
   <ul>{% for post in site.publications %}
