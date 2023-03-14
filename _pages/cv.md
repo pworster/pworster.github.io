@@ -48,24 +48,20 @@ Skills
   * Spectrophotometry
   * AAS
   * Nitrogen Kjeldal Analysis
-Publications
+
+
+Research
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Loonse en Drunense Duinen National Park, Netherlands
+    *Investigated current eutrophication within an inland dune system in the Netherlands, working closely with local government,
+Dutch National Institute for Public Health &amp; the Environment, and Loonse en Drunense Duinen National Park management.
+Mapped areas of the park with a drone and took soil and groundwater samples. Outlined areas susceptible to further
+eutrophication and potential park mitigation plans.
+
+Microplasic Study
+  *Investigated the effects of microplastics on freshwater microalgae growth. Experiments conducted in vitro.
   
-Talks
+Exchange Program to Japan
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  Interviewed and selected for the visitation to the Japanese island of Shikoku, continuing the Rotary initiative of maintaining
+strong relations between the US and Japan.
