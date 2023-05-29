@@ -1,6 +1,6 @@
 ---
 title: "Undergraduate Research"
-excerpt: "Dutch Groundcover Map<br/><img src='/images/ground-cover.png'>"
+excerpt: "Dutch National Park Groundcover Map created during undergraduate research<br/><img src='/images/ground-cover.png'>"
 collection: portfolio
 ---
 
