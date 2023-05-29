@@ -1,6 +1,6 @@
 ---
 title: "Undergraduate Research"
-excerpt: "Dutch Groundcover Map<br/><img src='/images/500x300.png'>"
+excerpt: "Dutch Groundcover Map<br/><img src='/images/ground-cover.png'>"
 collection: portfolio
 ---
 
