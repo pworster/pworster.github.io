@@ -4,4 +4,4 @@ excerpt: "Dutch Groundcover Map<br/><img src='/images/ground-cover.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In 2017, research was conducted at Avans University to create a groundcover map in Loonsen en Drunse Duinen National Park in the Netherlands. Drone imagery was used as a base for the map. 
