@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Phillip W / Assignment 5"
+title                    : "Phillip W"
 title_separator          : "-"
 name                     : &name "Phillip W"
-description              : &description "I'm Here"
+description              : &description "Student at UMBC"
 url                      : https://pworster.github.io # the base hostname & protocol for your site e.g. "https://pworster.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pworster/pworster.github.io"
