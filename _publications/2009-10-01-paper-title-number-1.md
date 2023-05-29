@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Comparing Baltimore Deographics to Flood zones"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: The aim of this project is to investigate if there is a correlation between where flood zones occur and the local demographics. Are people of BIPOC communities at higher risk of living in flood zones than white communities?<br/><img src='/images/white.png'>
