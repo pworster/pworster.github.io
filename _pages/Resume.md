@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Phillip Worster Resume"
-permalink: /Resume/
+permalink: /CV/
 author_profile: true
 redirect_from:
   - /resume
